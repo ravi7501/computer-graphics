@@ -1,1 +1,1 @@
-# graphicd
+# graphics
